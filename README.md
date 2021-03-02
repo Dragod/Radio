@@ -1,6 +1,6 @@
 # Radio
 
-### Listen your favourite Web Radio from cli, on Windows 10.
+### Listen your favourite Web Radio from CLI, on Windows 10.
 
 ![img](./assets/radio.png)
 
