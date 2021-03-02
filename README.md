@@ -1,4 +1,4 @@
-# Radio <img src="https://travis-ci.com/Dragod/Radio.svg?branch=main&amp;status=passed" alt="build:passed">
+# Radio [![Build Status](https://www.travis-ci.com/Dragod/Radio.svg?branch=main)](https://www.travis-ci.com/Dragod/Radio)
 ### Listen your favourite Web Radio from CLI, on Windows 10.
 
 ![img](./assets/radio.png)
