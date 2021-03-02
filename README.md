@@ -35,5 +35,7 @@ This nodejs script won't work without mpv player. You can change the audio playe
 
 Example: ```node radio --arancia``` will start streaming web Radio from Arancia Network.
 
+![img](./assets/radio.png)
+
 
 
