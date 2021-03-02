@@ -2,6 +2,8 @@
 
 ### Listen your favourite Web Radio from CLI, on Windows 10.
 
+<img src="https://travis-ci.com/Dragod/Radio.svg?branch=main&amp;status=passed" alt="build:passed">
+
 ![img](./assets/radio.png)
 
 > Dependencies: [Mpv player](https://mpv.io/installation).
