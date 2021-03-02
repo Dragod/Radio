@@ -38,7 +38,7 @@ This nodejs script won't work without mpv player. You can change the audio playe
 Example: ```node radio --arancia``` will start streaming web Radio from Arancia Network.
 
 > NOTE: CLI arguments, web radio & player are hardcoded in javascript files, but you can easily change them to suits your needs.
-
+---
 ***How to get URL from a Internet radio station***
 
-Read here on  StackExchange:[https://superuser.com/questions/1146238/how-to-get-the-url-from-a-internet-radio-station-so-i-can-stream-it-from-vlc#:~:text=The%20URL%20is%20found%20by,will%20indicate%20the%20stream%20URLs.](https://superuser.com/questions/1146238/how-to-get-the-url-from-a-internet-radio-station-so-i-can-stream-it-from-vlc#:~:text=The%20URL%20is%20found%20by,will%20indicate%20the%20stream%20URLs.)
+Read on: [StackExchange](https://superuser.com/questions/1146238/how-to-get-the-url-from-a-internet-radio-station-so-i-can-stream-it-from-vlc#:~:text=The%20URL%20is%20found%20by,will%20indicate%20the%20stream%20URLs.)
