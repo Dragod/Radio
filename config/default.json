@@ -1,0 +1,26 @@
+{
+    "player":
+    {
+        "mpv": "mpv --quiet --no-video"
+    },
+    "radio":
+    {
+        "cc": "https://icecast.unitedradio.it/Radio105.mp3",
+        "rtl": "https://streamingv2.shoutcast.com/rtl-1025",
+        "virgin":"https://icecast.unitedradio.it/Virgin.mp3",
+        "dj": "https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
+        "italia": "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8",
+        "subasio": "https://icy.unitedradio.it/Subasio.mp3",
+        "mc2": "https://edge.singsingmusic.net/MC2.mp3",
+        "rai1": "https://icestreaming.rai.it/1.mp3",
+        "rai2": "https://icestreaming.rai.it/2.mp3",
+        "rai3": "https://icestreaming.rai.it/3.mp3",
+        "rds": "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8",
+        "m2o": "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8",
+        "kiss": "https://kisskiss.fluidstream.eu/KKItalia.aac?FLID=8",
+        "sport": "https://mediahit.inmystream.it:9000/stream",
+        "r789": "https://rblive80.it/radiobrand2/8348",
+        "latte": "https://ice02.fluidstream.net/fluid016.aac?FLID=8",
+        "arancia": "https://stream3.xdevel.com/audio0s975447-156/stream/icecast.audio"
+    }
+}
