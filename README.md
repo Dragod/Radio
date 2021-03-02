@@ -2,6 +2,8 @@
 
 ### Listen your favourite Web Radio from cli, on Windows 10.
 
+![img](./assets/radio.png)
+
 > Dependencies: [Mpv player](https://mpv.io/installation).
 This nodejs script won't work without mpv player. You can change the audio player to VLC or mplayer if you like in the ```default.json```.
 ---
@@ -34,8 +36,3 @@ This nodejs script won't work without mpv player. You can change the audio playe
 - Radio Arancia Network ```--arancia```
 
 Example: ```node radio --arancia``` will start streaming web Radio from Arancia Network.
-
-![img](./assets/radio.png)
-
-
-
