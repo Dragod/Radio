@@ -4,7 +4,8 @@
 
 ![img](./assets/radio.png)
 
-> Dependencies: [Mpv player](https://mpv.io/installation).
+### *** Requisite, please read this note: ***
+> Dependencies: [Mpv player](https://mpv.io/installation) witch is free and Open Source.
 This nodejs script won't work without mpv player. You can change the audio player to VLC or mplayer if you like in the ```default.json```.
 ---
 ***How it works***
