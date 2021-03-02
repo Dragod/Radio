@@ -1,8 +1,5 @@
-# Radio
-
+# Radio <img src="https://travis-ci.com/Dragod/Radio.svg?branch=main&amp;status=passed" alt="build:passed">
 ### Listen your favourite Web Radio from CLI, on Windows 10.
-
-<img src="https://travis-ci.com/Dragod/Radio.svg?branch=main&amp;status=passed" alt="build:passed">
 
 ![img](./assets/radio.png)
 
