@@ -9,5 +9,8 @@
   "dependencies": {
     "config": "^3.3.4",
     "minimist": "^1.2.5"
+  },
+  "bin": {
+    "build.js": "./bin/radio.js"
   }
 }
